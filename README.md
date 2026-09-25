@@ -45,10 +45,31 @@ RepSense currently supports:
 
 ### Landing-page media
 
-- Product screenshots showing light mode, dark mode, shoulder press, squat, metrics, and workout history views.
+- Product screenshots showing the login page, light mode, dark mode, shoulder press, squat, metrics, and workout history views.
 - A local demo video in `videos/DemoVideo.mp4`.
 - A live-app button connected to the deployed RepSense Streamlit application.
 - Contact links for LinkedIn, GitHub, Instagram, and email.
+
+### Product screenshots
+
+<table>
+    <tr>
+        <td align="center"><strong>Login page</strong><br /><img src="IMGs/loginpage.png" alt="RepSense login page" width="420" /></td>
+        <td align="center"><strong>Light mode</strong><br /><img src="IMGs/light%20mode.png" alt="RepSense light mode dashboard" width="420" /></td>
+    </tr>
+    <tr>
+        <td align="center"><strong>Dark mode</strong><br /><img src="IMGs/darkmode.png" alt="RepSense dark mode dashboard" width="420" /></td>
+        <td align="center"><strong>Shoulder press</strong><br /><img src="IMGs/shoulderpress.png" alt="RepSense shoulder press tracking" width="420" /></td>
+    </tr>
+    <tr>
+        <td align="center"><strong>Squat tracking</strong><br /><img src="IMGs/squat.png" alt="RepSense squat tracking" width="420" /></td>
+        <td align="center"><strong>Workout metrics</strong><br /><img src="IMGs/metrics.png" alt="RepSense workout metrics" width="420" /></td>
+    </tr>
+    <tr>
+        <td align="center"><strong>Workout history</strong><br /><img src="IMGs/workouthistory.png" alt="RepSense workout history" width="420" /></td>
+        <td align="center"><strong>Demo video</strong><br />A product walkthrough is available in <code>videos/DemoVideo.mp4</code>.</td>
+    </tr>
+</table>
 
 ## Tech Stack
 
