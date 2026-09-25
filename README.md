@@ -2,14 +2,13 @@
 
 > A bold, responsive landing page for RepSense, a real-time AI gym coach that helps athletes understand their form, track their progress, and train with better feedback.
 
-[![Live App](https://img.shields.io/badge/Try%20RepSense-Live%20App-c89b3c?style=for-the-badge)](https://repsense-ai-gym-coach.streamlit.app/)
-[![Landing Page](https://img.shields.io/badge/Landing%20Page-GitHub%20Pages-111111?style=for-the-badge&logo=github)](https://github.com/Aman05cody/Repsense-Landing-Page)
+[![Landing Page](https://img.shields.io/badge/Visit%20Landing%20Page-Netlify-111111?style=for-the-badge&logo=netlify)](https://repsense-ai-gym-coach.netlify.app/)
 
 ## Overview
 
 This repository contains the presentation website for **RepSense - Real-time AI Gym Coach Trainer**. The page introduces the product through a focused hero section, a visual product gallery, a demo video, live-app calls to action, and direct links to the project creator.
 
-The underlying RepSense application uses a camera, computer vision, and AI-assisted coaching to make workout sessions more measurable and more useful. This landing page gives visitors a quick way to understand the experience and try the live application.
+The underlying RepSense application uses a camera, computer vision, and AI-assisted coaching to make workout sessions more measurable and more useful. This landing page gives visitors a quick way to understand the product experience.
 
 ## Features
 
@@ -73,7 +72,7 @@ RepSense currently supports:
 | Styling | CSS3 |
 | Fonts | Averta, Ubuntu, and Instrument Serif |
 | Media | Local PNG screenshots and MP4 demo video |
-| Hosting | Any static host, including GitHub Pages |
+| Hosting | Netlify |
 
 ## Project Structure
 
@@ -110,17 +109,9 @@ Visit [http://localhost:5500](http://localhost:5500) in your browser.
 
 Using a local HTTP server is recommended instead of opening `index.html` directly because it keeps relative image, font, and video paths working consistently.
 
-## Using RepSense
+## Deployed Landing Page
 
-To try the actual AI trainer, open the [RepSense live app](https://repsense-ai-gym-coach.streamlit.app/).
-
-1. Create or open a training profile with a unique username.
-2. Select an exercise, target sets, and repetitions.
-3. Start the workout and allow camera access.
-4. Follow the live movement metrics, repetition counter, and coaching feedback.
-5. End the session to save completed sets to workout history.
-
-Camera permissions and real-time video features depend on the browser and hosting environment.
+Explore the product presentation at the [RepSense deployed landing page](https://repsense-ai-gym-coach.netlify.app/).
 
 ## Contact
 
